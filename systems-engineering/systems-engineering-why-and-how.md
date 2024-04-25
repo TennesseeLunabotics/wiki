@@ -26,7 +26,7 @@ _"over their life cycles"_ - We use systems engineering all the time as we devel
 
 So what happens if we don't use systems engineering? Let's look at the Tennessee Lunabotics 2022-23 season as an example.
 
-We missed the mark big time during our robot development. We expected to build a complex robot on an accelerated schedule with few financial details cemented beforehand. We hadn't even decided where the electrical box would go when we ordered parts - "_we'll figure that out when we get there_," we said. We had not fully defined our mechanical interfaces, and ended up with parts that didn't fit together because the manufacturing tolerances were way too lose.&#x20;
+We missed the mark big time during our robot development. We expected to build a complex robot on an accelerated schedule with few financial details cemented beforehand. We hadn't even decided where the electrical box would go when we ordered parts - "_we'll figure that out when we get there_," we said. We had not fully defined our mechanical interfaces, and ended up with parts that didn't fit together because the manufacturing tolerances were way too loose.&#x20;
 
 Needless to say, we did not make it to competition that year.
 
