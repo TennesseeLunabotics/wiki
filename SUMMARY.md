@@ -20,6 +20,6 @@
 * [🛠️ Engineering Specialties](systems-engineering/engineering-specialties.md)
 * [📋 Validation and Verification](systems-engineering/validation-and-verification.md)
 
-## 😩 Programming
+## Programming
 
-* [Programming...](programming/programming....md)
+* [🥲 Programming...](programming/programming....md)
