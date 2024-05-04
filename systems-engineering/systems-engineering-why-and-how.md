@@ -22,7 +22,7 @@ _"complex systems"_ - The more complicated a project is, the more necessary it i
 
 _"over their life cycles"_ - We use systems engineering all the time as we develop a project, from initial inception to eventual disposal, a process known as cradle-to-grave product development.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Bringing a Lunabotics rover to life is only possible by successfully implementing systems engineering processes.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Bringing a Lunabotics rover to life is only possible by successfully implementing systems engineering processes.</p></figcaption></figure>
 
 So what happens if we don't use systems engineering? Let's look at the Tennessee Lunabotics 2022-23 season as an example.
 
@@ -30,7 +30,7 @@ We missed the mark big time during our robot development. We expected to build a
 
 Needless to say, we did not make it to competition that year.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Things were not two-thumbs-up for long with the 2022-23 robot system.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Things were not two-thumbs-up for long with the 2022-23 robot system.</p></figcaption></figure>
 
 We wasted _a lot_ of money, time, and resources that year. Team members were demoralized, and many did not return for the next year of competition. Our failure in the 2022-23 season was caused by a variety of additional issues, many related to lack of experience, supply chain issues due to COVID-19, and organizational drama.  But had we used proper systems engineering practices, these issues likely would not have been as severe, and we probably could have made it to Florida that May.
 
