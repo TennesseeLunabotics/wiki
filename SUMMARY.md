@@ -23,8 +23,14 @@
 
 ## Programming
 
-* [🥲 Programming...](programming/programming....md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
+* [Electronics Overview](programming/electronics-overview.md)
+* [Programming Overview](programming/programming-overview.md)
+* [Client](programming/client/README.md)
+  * [Controller Input and Client Logic](programming/client/controller-input-and-client-logic.md)
+  * [Client Video](programming/client/client-video.md)
+  * [Client Comms](programming/client/client-comms.md)
+* [Server](programming/server/README.md)
+  * [Server Logic](programming/server/server-logic.md)
+  * [Server Video](programming/server/server-video.md)
+  * [Server Comms](programming/server/server-comms.md)
+* [Microcontroller](programming/microcontroller.md)
