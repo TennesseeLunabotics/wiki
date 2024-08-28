@@ -6,7 +6,7 @@ description: >-
 
 # Programming Overview
 
-Devices
+## Devices
 
 The control systems on our robot make use of three primary compute devices. These are:
 
