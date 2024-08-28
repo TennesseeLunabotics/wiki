@@ -4,11 +4,12 @@ description: C++ Windows client built with CMake
 
 # Client
 
+The client code lives in `client/`. It has two classes:
 
+* `tcp_stream` defined in include/comm.hpp, implemented in src/comm.cpp
+* `Controller` defined in include/controller.hpp, implemented in src/controller.cpp
 
-Packages, install, build etc info goes here.
-
-
+The program entrypoint and primary loop is located in `src/client.cpp`.
 
 
 
