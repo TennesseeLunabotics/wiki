@@ -6,7 +6,7 @@ description: >-
 
 # Programming Overview
 
-## Devices
+Devices
 
 The control systems on our robot make use of three primary compute devices. These are:
 
@@ -72,7 +72,7 @@ We used the PlatformIO Visual Studio Code extension for flashing the microcontro
 
 ## Data Flow
 
-<figure><img src="../.gitbook/assets/Lunabotics Data Flow.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Lunabotics Data Flow (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Code Structure
 
