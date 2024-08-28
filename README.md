@@ -10,6 +10,10 @@ Welcome to the Tennessee Lunabotics knowledgebase! We've made this public facing
 [systems-engineering-why-and-how.md](systems-engineering/systems-engineering-why-and-how.md)
 {% endcontent-ref %}
 
+{% content-ref url="programming/electronics-overview.md" %}
+[electronics-overview.md](programming/electronics-overview.md)
+{% endcontent-ref %}
 
+***
 
 If you are a student of The University of Tennessee and wish to become a member of Tennessee Lunabotics, check out the info on [our main site.](https://tennesseelunabotics.com/#Join)
