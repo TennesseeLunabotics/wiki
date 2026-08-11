@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+venv/
+
+# MkDocs generated files
+docs/
+site/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
